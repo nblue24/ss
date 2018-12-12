@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 30%;
+}
+.thetable {
+     display: flex;
+    align-content: center;
+    justify-content: center;
+}
+table {
+    background-color: rgb(255, 211, 218);
+    border: 1px solid rgb(235, 232, 232);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+}
+
+tr, td {
+    border: 1px solid rgb(165, 165, 165);
+    text-align: center;
+    padding: 5px;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+#bobbie, #Renee, #Julie, #Cimone {
+    background-color: rgb(218, 140, 218);
+}
+#Nicole, #Kaleena, #Tierra {
+    background-color: rgb(245, 88, 109);
+}
+
+.name {
+    font-weight: bold;
+}
